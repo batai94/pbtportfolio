@@ -58,7 +58,7 @@ export default function Hero() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello, I'm Tai.</span> I'm a{" "}
+        <span className="font-bold">Hello, I&apos;m Tai.</span> I&apos;m a{" "}
         <span className="font-bold">front-end developer</span> with{" "}
         <span className="font-bold">2 years</span> of experience. I enjoy{" "}
         <span className="italic">designing & building</span> sites. My focus is{" "}
