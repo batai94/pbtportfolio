@@ -91,14 +91,14 @@ export default function Hero() {
           <BsDownload className="opacity-70 group-hover:translate-y-1 transition" />
         </a>
         <a
-          href="https://linkedin.com"
+          href="https://www.linkedin.com/in/tai-phan-a33b06297/"
           target="_blank"
           className="group bg-white p-4 flex items-center gap-2 rounded-full cursor-pointer borderLightBlack dark:bg-white/10 dark:text-white/60"
         >
           <BsLinkedin className="group-hover:scale-110 transition" />
         </a>
         <a
-          href="https://github.com"
+          href="https://github.com/batai94"
           target="_blank"
           className="group bg-white p-4 flex items-center gap-2 rounded-full cursor-pointer borderLightBlack dark:bg-white/10 dark:text-white/60"
         >
